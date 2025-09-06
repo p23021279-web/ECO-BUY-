@@ -1,0 +1,13 @@
+Frontend 
+React 
+TypeScript 
+
+Styling & UI
+Tailwind CSS 
+
+Backend 
+Node js
+Express js
+
+Database
+Mongodb
